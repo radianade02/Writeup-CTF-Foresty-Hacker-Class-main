@@ -7,13 +7,13 @@ List of Challange I solved.
 ### Week 1
 | Category | Challenge |
 | --- | --- |
-| Web Exploitation | [Fortune Cookies](/Fortune_Cookies/)
-| Misc.            | [Sanity Check](/Sanity_Check/)
+| Web Exploitation | [Fortune Cookies](/Writeup-CTF-Foresty-Hacker-Class-main/Writeup-CTF-Foresty-Hacker-Class-main/Fortune_Cookies/)
+| Misc.            | [Sanity Check](/Writeup-CTF-Foresty-Hacker-Class-main/Writeup-CTF-Foresty-Hacker-Class-main/Sanity_Check/)
 
 ### Week 2
 | Category | Challenge |
 | --- | --- |
 | Vigenere         | [Vigenere](/Vigenere/)
-| RSA              | [RSA](/RSA/)
-| Emoji            | [Emoji](/Emoji/)
-| Xorrr            | [Xorrr](/Xorrr/)
+| RSA              | [RSA](/Writeup-CTF-Foresty-Hacker-Class-main/Writeup-CTF-Foresty-Hacker-Class-main/RSA/)
+| Emoji            | [Emoji](/Writeup-CTF-Foresty-Hacker-Class-main/Writeup-CTF-Foresty-Hacker-Class-main/Emoji/)
+| Xorrr            | [Xorrr](/Writeup-CTF-Foresty-Hacker-Class-main/Writeup-CTF-Foresty-Hacker-Class-main/Xorrr/)
